@@ -1,0 +1,52 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-ce0c29c16186a4a2cca5.js",
+      "component---src-pages-index-js-ce0c29c16186a4a2cca5.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-724a0373e59683b61e8a.js",
+      "component---src-templates-blog-post-js-724a0373e59683b61e8a.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-c5619bbae57cb092fd4d.js",
+      "component---src-layouts-index-js-c5619bbae57cb092fd4d.js.map"
+    ],
+    "path---leakcanary": [
+      "path---leakcanary-025d0eeb19eebb5a2017.js",
+      "path---leakcanary-025d0eeb19eebb5a2017.js.map"
+    ],
+    "path---index": [
+      "path---index-e344e23633aba638c664.js",
+      "path---index-e344e23633aba638c664.js.map"
+    ],
+    "commons": [
+      "commons-78727bd33a365b16d4bb.js",
+      "build-js-styles.css",
+      "commons-78727bd33a365b16d4bb.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---otto": [
+      "path---otto-3dce66467b2e7a6f7817.js",
+      "path---otto-3dce66467b2e7a6f7817.js.map"
+    ],
+    "app": [
+      "app-b203eb3d6ff7162504fd.js",
+      "build-js-styles.css",
+      "app-b203eb3d6ff7162504fd.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}
