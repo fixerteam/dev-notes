@@ -21,18 +21,22 @@
       "component---src-layouts-index-js-4205b81b132b7782e040.js.map"
     ],
     "path---leakcanary": [
-      "path---leakcanary-914ab343d46b587641c7.js",
-      "path---leakcanary-914ab343d46b587641c7.js.map"
+      "path---leakcanary-72d22406fe71a1e348b3.js",
+      "path---leakcanary-72d22406fe71a1e348b3.js.map"
     ],
     "path---index": [
-      "path---index-e344e23633aba638c664.js",
-      "path---index-e344e23633aba638c664.js.map"
+      "path---index-0f4f156a1e3ac61f9710.js",
+      "path---index-0f4f156a1e3ac61f9710.js.map"
     ],
     "commons": [
       "commons-78727bd33a365b16d4bb.js",
       "build-js-styles.css",
       "commons-78727bd33a365b16d4bb.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---vscode": [
+      "path---vscode-7cd187c1858baaaaceea.js",
+      "path---vscode-7cd187c1858baaaaceea.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -43,9 +47,9 @@
       "path---otto-7f8caa7a751c82157604.js.map"
     ],
     "app": [
-      "app-50b009bcd15eed4920b4.js",
+      "app-906f940e952d1122dd69.js",
       "build-js-styles.css",
-      "app-50b009bcd15eed4920b4.js.map",
+      "app-906f940e952d1122dd69.js.map",
       "build-js-styles.css.map"
     ]
   }
